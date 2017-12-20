@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "I CODE 4 FUN!"
 title_separator          : "-"
-name                     : "I CODE 4 FUN!"
+name                     : "My Dev Space and Projects"
 description              : "Chelsey's Dev Space"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -86,33 +86,33 @@ author:
   name             : "Chelsey Fay"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an experienced developer!"
-  location         : "Somewhere"
-  email            :
+  location         : "Wisconsin"
+  email            :  "chelseyfay1810@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
-  codepen          :
-  dribbble         :
+  codepen          : 
+  dribbble         : "https://dribbble.com/cfay1810"
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/devndesignsbychelsey/"
   foursquare       :
-  github           :
-  gitlab           :
+  github           : "https://github.com/cfay1810"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : # "https://www.linkedin.com/in/chelsey-fay-74301b155/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : # "https://stackoverflow.com/users/story/9121134"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://www.youtube.com/channel/UCC-CZtXGO8I4-k0soXORcSA"
 
 
 # Reading Files
