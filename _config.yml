@@ -102,17 +102,17 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "https://www.linkedin.com/in/chelsey-fay-74301b155/"
+  linkedin         : "https://www.linkedin.com/in/chelsey-fay-74301b155/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "https://stackoverflow.com/users/story/9121134"
+  stackoverflow    : "https://stackoverflow.com/users/story/9121134"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://www.youtube.com/channel/UCC-CZtXGO8I4-k0soXORcSA"
+  youtube          : "https://www.youtube.com/channel/UCC-CZtXGO8I4-k0soXORcSA"
 
 
 # Reading Files
